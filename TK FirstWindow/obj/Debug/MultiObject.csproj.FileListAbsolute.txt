@@ -1,0 +1,16 @@
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\GameCode\Assets\AragonTex.jpg
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\GameCode\Assets\AragonTexUdenBaggrund.png
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\GameCode\Assets\wall.jpg
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\TK FirstWindow.exe.config
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\TK FirstWindow.exe
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\TK FirstWindow.pdb
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\OpenTK.dll
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\StbImageSharp.dll
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\OpenTK.pdb
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\bin\Debug\OpenTK.xml
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\MultiObject.csproj.AssemblyReference.cache
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\MultiObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\MultiObject.csproj.CoreCompileInputs.cache
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\MultiObject.csproj.CopyComplete
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\TK FirstWindow.exe
+C:\Users\smikk\Desktop\Profession Bachelor\Forløb\2.Computergrafik\Opgaver\MultiObject\MultiObject\TK FirstWindow\obj\Debug\TK FirstWindow.pdb
